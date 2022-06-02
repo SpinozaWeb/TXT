@@ -1,0 +1,13 @@
+Skills:
+ Linux bash: yes
+ GIT: yes
+ Chrome dev tools:yes
+ Test API for Postman:yes
+ SQL Basics:yes
+ Mobile testing:yes
+ JS Basics:yes
+ CSS Basics:yes
+ Working with ADB:yes
+ Working with Charlies/Fiddler:yes
+ Explorary testing:yes
+ White box testing:yes
